@@ -1,0 +1,6 @@
+/Users/ehsan/Desktop/c#practice/Interface/Interface/obj/Debug/Interface.csprojAssemblyReference.cache
+/Users/ehsan/Desktop/c#practice/Interface/Interface/obj/Debug/Interface.csproj.CoreCompileInputs.cache
+/Users/ehsan/Desktop/c#practice/Interface/Interface/bin/Debug/Interface.exe
+/Users/ehsan/Desktop/c#practice/Interface/Interface/bin/Debug/Interface.pdb
+/Users/ehsan/Desktop/c#practice/Interface/Interface/obj/Debug/Interface.exe
+/Users/ehsan/Desktop/c#practice/Interface/Interface/obj/Debug/Interface.pdb

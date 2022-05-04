@@ -1,0 +1,6 @@
+/Users/ehsan/Desktop/c#practice/OverRideDemo/OverRideDemo/bin/Debug/OverRideDemo.exe
+/Users/ehsan/Desktop/c#practice/OverRideDemo/OverRideDemo/bin/Debug/OverRideDemo.pdb
+/Users/ehsan/Desktop/c#practice/OverRideDemo/OverRideDemo/obj/Debug/OverRideDemo.csprojAssemblyReference.cache
+/Users/ehsan/Desktop/c#practice/OverRideDemo/OverRideDemo/obj/Debug/OverRideDemo.csproj.CoreCompileInputs.cache
+/Users/ehsan/Desktop/c#practice/OverRideDemo/OverRideDemo/obj/Debug/OverRideDemo.exe
+/Users/ehsan/Desktop/c#practice/OverRideDemo/OverRideDemo/obj/Debug/OverRideDemo.pdb

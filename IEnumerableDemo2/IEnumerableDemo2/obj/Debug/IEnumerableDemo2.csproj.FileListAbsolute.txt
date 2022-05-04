@@ -1,0 +1,6 @@
+/Users/ehsan/Desktop/c#practice/IEnumerableDemo2/IEnumerableDemo2/bin/Debug/IEnumerableDemo2.exe
+/Users/ehsan/Desktop/c#practice/IEnumerableDemo2/IEnumerableDemo2/bin/Debug/IEnumerableDemo2.pdb
+/Users/ehsan/Desktop/c#practice/IEnumerableDemo2/IEnumerableDemo2/obj/Debug/IEnumerableDemo2.csprojAssemblyReference.cache
+/Users/ehsan/Desktop/c#practice/IEnumerableDemo2/IEnumerableDemo2/obj/Debug/IEnumerableDemo2.csproj.CoreCompileInputs.cache
+/Users/ehsan/Desktop/c#practice/IEnumerableDemo2/IEnumerableDemo2/obj/Debug/IEnumerableDemo2.exe
+/Users/ehsan/Desktop/c#practice/IEnumerableDemo2/IEnumerableDemo2/obj/Debug/IEnumerableDemo2.pdb

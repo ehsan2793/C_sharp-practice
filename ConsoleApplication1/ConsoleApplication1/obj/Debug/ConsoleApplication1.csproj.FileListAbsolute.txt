@@ -1,0 +1,6 @@
+/Users/ehsan/Desktop/c#practice/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csprojAssemblyReference.cache
+/Users/ehsan/Desktop/c#practice/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/Users/ehsan/Desktop/c#practice/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/Users/ehsan/Desktop/c#practice/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/Users/ehsan/Desktop/c#practice/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/Users/ehsan/Desktop/c#practice/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb

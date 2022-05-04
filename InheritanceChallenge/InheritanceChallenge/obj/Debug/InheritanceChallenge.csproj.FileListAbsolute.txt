@@ -1,0 +1,6 @@
+/Users/ehsan/Desktop/c#practice/InheritanceChallenge/InheritanceChallenge/bin/Debug/InheritanceChallenge.exe
+/Users/ehsan/Desktop/c#practice/InheritanceChallenge/InheritanceChallenge/bin/Debug/InheritanceChallenge.pdb
+/Users/ehsan/Desktop/c#practice/InheritanceChallenge/InheritanceChallenge/obj/Debug/InheritanceChallenge.csprojAssemblyReference.cache
+/Users/ehsan/Desktop/c#practice/InheritanceChallenge/InheritanceChallenge/obj/Debug/InheritanceChallenge.csproj.CoreCompileInputs.cache
+/Users/ehsan/Desktop/c#practice/InheritanceChallenge/InheritanceChallenge/obj/Debug/InheritanceChallenge.exe
+/Users/ehsan/Desktop/c#practice/InheritanceChallenge/InheritanceChallenge/obj/Debug/InheritanceChallenge.pdb

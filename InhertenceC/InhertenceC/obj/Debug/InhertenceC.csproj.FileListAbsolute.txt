@@ -1,0 +1,6 @@
+/Users/ehsan/Desktop/c#practice/InhertenceC/InhertenceC/bin/Debug/InhertenceC.exe
+/Users/ehsan/Desktop/c#practice/InhertenceC/InhertenceC/bin/Debug/InhertenceC.pdb
+/Users/ehsan/Desktop/c#practice/InhertenceC/InhertenceC/obj/Debug/InhertenceC.csprojAssemblyReference.cache
+/Users/ehsan/Desktop/c#practice/InhertenceC/InhertenceC/obj/Debug/InhertenceC.csproj.CoreCompileInputs.cache
+/Users/ehsan/Desktop/c#practice/InhertenceC/InhertenceC/obj/Debug/InhertenceC.exe
+/Users/ehsan/Desktop/c#practice/InhertenceC/InhertenceC/obj/Debug/InhertenceC.pdb

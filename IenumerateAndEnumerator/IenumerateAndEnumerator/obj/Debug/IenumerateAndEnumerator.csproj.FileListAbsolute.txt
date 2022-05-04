@@ -1,0 +1,6 @@
+/Users/ehsan/Desktop/c#practice/IenumerateAndEnumerator/IenumerateAndEnumerator/bin/Debug/IenumerateAndEnumerator.exe
+/Users/ehsan/Desktop/c#practice/IenumerateAndEnumerator/IenumerateAndEnumerator/bin/Debug/IenumerateAndEnumerator.pdb
+/Users/ehsan/Desktop/c#practice/IenumerateAndEnumerator/IenumerateAndEnumerator/obj/Debug/IenumerateAndEnumerator.csprojAssemblyReference.cache
+/Users/ehsan/Desktop/c#practice/IenumerateAndEnumerator/IenumerateAndEnumerator/obj/Debug/IenumerateAndEnumerator.csproj.CoreCompileInputs.cache
+/Users/ehsan/Desktop/c#practice/IenumerateAndEnumerator/IenumerateAndEnumerator/obj/Debug/IenumerateAndEnumerator.exe
+/Users/ehsan/Desktop/c#practice/IenumerateAndEnumerator/IenumerateAndEnumerator/obj/Debug/IenumerateAndEnumerator.pdb
